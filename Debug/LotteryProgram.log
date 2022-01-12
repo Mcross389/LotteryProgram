@@ -1,0 +1,7 @@
+﻿  LotteryProgram.cpp
+C:\Users\Matthew\Desktop\Programmin\Projects\LotteryProgram\LotteryProgram.cpp(34,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Programmin\Projects\LotteryProgram\LotteryProgram.cpp(35,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Programmin\Projects\LotteryProgram\LotteryProgram.cpp(36,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Programmin\Projects\LotteryProgram\LotteryProgram.cpp(37,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Programmin\Projects\LotteryProgram\LotteryProgram.cpp(38,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  LotteryProgram.vcxproj -> C:\Users\Matthew\Desktop\Programmin\Projects\LotteryProgram\Debug\LotteryProgram.exe

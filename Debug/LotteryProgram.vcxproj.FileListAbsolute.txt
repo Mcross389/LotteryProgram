@@ -1,0 +1,2 @@
+C:\Users\Matthew\Desktop\Programmin\Projects\LotteryProgram\Debug\LotteryProgram.exe
+C:\Users\Matthew\Desktop\Programmin\Projects\LotteryProgram\Debug\LotteryProgram.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LotteryProgram", "LotteryProgram.vcxproj", "{B799BCCE-8850-406D-883A-131B206078EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B799BCCE-8850-406D-883A-131B206078EE}.Debug|x64.ActiveCfg = Debug|x64
+		{B799BCCE-8850-406D-883A-131B206078EE}.Debug|x64.Build.0 = Debug|x64
+		{B799BCCE-8850-406D-883A-131B206078EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{B799BCCE-8850-406D-883A-131B206078EE}.Debug|x86.Build.0 = Debug|Win32
+		{B799BCCE-8850-406D-883A-131B206078EE}.Release|x64.ActiveCfg = Release|x64
+		{B799BCCE-8850-406D-883A-131B206078EE}.Release|x64.Build.0 = Release|x64
+		{B799BCCE-8850-406D-883A-131B206078EE}.Release|x86.ActiveCfg = Release|Win32
+		{B799BCCE-8850-406D-883A-131B206078EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2386E90-5EE2-4ED0-8771-51E64768996C}
+	EndGlobalSection
+EndGlobal
